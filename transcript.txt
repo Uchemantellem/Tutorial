@@ -1,0 +1,18 @@
+hello everyone my name is uche eke and today we will be learning how to clone an existing repository from github to your local machine.
+This is tutorial video is with the assumption that you have already created a github account.
+Github is for those who are software engineers, software developers, or for anyone who is interested in code sharing.
+it is very similiar to google docs, where your work gets hosted onto the cloud which allows for group collaboration.
+
+
+To use github you do need to be familiar with navigation and manipulating data from the command line first. If you are not familiar with the command line
+or do not have the command line tools such as terminal (if you are on a macbook) or microsoft bash (for windows users), installed,
+you should come back another time when you have installed the appropriate programming tool. 
+Since I have already made an account on github, I am now navigating to an existing repository. 
+Over here to the right you can see the button "code" and a clipboard option which allows you to copy the repositories' provided link.
+You will take this link and type in the command, git clone and paste the link. Git clone is the command used in order to clone an existing repository from github to your
+local machine.
+All you have to do is now navigate to the folder on your command line, which is here on my desktop.
+
+Thank you for your time in watching this video and I hope this helped.
+If you are looking for a further explanation, please do not hesitate to reach out. Or go to the github's help page via the link in my description!
+Happy Haking!
